@@ -32,12 +32,6 @@ Using the `/fps` command opens a menu where you select your preferred performanc
 * **client.lua**: Contains all logic for rendering adjustments, menu handling, and FPS mode application.
 * **fxmanifest.lua**: Defines resource metadata and dependencies.
 
-## Support & Security
-
-If you encounter any issues or have questions about usage, please reach out to me directly via my [Discord Profile](https://discordlookup.com/user/1069279857072160921). I strive to provide timely support.
-
-**Please avoid publicly posting any security concerns to ensure they are handled responsibly.**
-
 ## Contributing
 
 Contributions are welcome! When submitting a Pull Request (PR), please follow these guidelines:
@@ -53,7 +47,3 @@ This project is licensed under the **MIT License**, allowing free use, modificat
 The software is provided "as is", without warranties of any kind.
 
 For details, see the [MIT License](https://opensource.org/licenses/MIT).
-
-## Created by [KaloudasDev](https://github.com/KaloudasDev).
-
-If you find this FPS Booster useful, please leave a star on the repo. Thanks for your support!
