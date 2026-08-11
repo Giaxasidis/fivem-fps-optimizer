@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Giaxasidis'
+author 'Giachasidis'
 description 'FPS Optimizer'
 version '1.0.0'
 
